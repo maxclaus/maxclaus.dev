@@ -1,5 +1,5 @@
 title = "Max Claus' website"
-base_url = "https://maxclaus.xyz"
+base_url = "https://maxclaus.dev"
 description = "Max Claus' personal website - About, Blog, Resume"
 
 generate_feeds = true

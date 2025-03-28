@@ -1,8 +1,8 @@
-# maxclaus.xyz
+# maxclaus.dev
 
 My personal blog, powered by [Zola](https://www.getzola.com).
 
-Available at https://maxclaus.xyz (https://maxclaus.github.io/maxclaus.xyz/).
+Available at https://maxclaus.dev (https://maxclaus.github.io/maxclaus.dev/).
 
 **Credits**
 

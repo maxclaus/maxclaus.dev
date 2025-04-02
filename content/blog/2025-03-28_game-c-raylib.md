@@ -9,7 +9,7 @@ description = "Building a game in C with raylib library"
 +++
 
 After diving into Assembly programming, which I mention in my previous post, and gaining a better understanding of the basics of how programs work on a lower level.
-I decided it was time to move one level up and get some experience with [C][c_lang]. So I built a micro game as my first
+I decided it was time to move one level up and get some experience with [C][c_lang]. So I built a tiny game as my first
 project.
 
 Some interesting points about C programming:

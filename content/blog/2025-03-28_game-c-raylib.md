@@ -2,10 +2,10 @@
 title = "Building a Game in C"
 description = "Building a game in C with raylib library"
 
-# [extra]
-# [extra.shared]
-#   LinkedIn = ""
-#   Reddit = ""
+[extra]
+[extra.shared]
+  LinkedIn = "https://www.linkedin.com/posts/maxclaus_building-a-game-in-c-activity-7312989381915545600-Mk7B"
+  Reddit = "https://www.reddit.com/r/C_Programming/comments/1jpb5w0/comment/mkycgrc"
 +++
 
 After diving into Assembly programming, which I mention in my previous post, and gaining a better understanding of the basics of how programs work on a lower level.
